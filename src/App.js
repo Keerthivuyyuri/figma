@@ -14,7 +14,7 @@ import UpdatesList from './components/UpdatesList';
 import SettingsPanel from './components/SettingsPanel'; // Imported settings panel layout
 
 export default function App() {
-  const [view, setView] = useState('groups'); // Defaulted to groups view for testing
+  const [view, setView] = useState('profile'); // Defaulted to groups view for testing
   const [activeChat, setActiveChat] = useState(null);
   const [activeCall, setActiveCall] = useState(null);
   const [activeGroup, setActiveGroup] = useState(null);
