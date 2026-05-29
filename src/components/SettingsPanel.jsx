@@ -338,7 +338,7 @@ export default function SettingsPanel() {
               <h2 className="text-[20px] font-black text-[#1e2229] tracking-tight">Settings</h2>
             </div>
             <div className="px-5 py-4 flex items-center gap-3.5 border-b border-gray-100/60 shrink-0">
-              <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120" className="w-12 h-12 rounded-full object-cover border border-gray-100 shadow-sm shrink-0" alt="" />
+              <img src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100" className="w-12 h-12 rounded-full object-cover border border-gray-100 shadow-sm shrink-0" alt="" />
               <div className="min-w-0">
                 <h4 className="text-[13px] font-bold text-[#1e2229] leading-tight truncate">Shreyansh shah</h4>
                 <p className="text-[11px] font-semibold text-gray-400 mt-1 truncate">Exploring</p>

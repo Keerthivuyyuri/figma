@@ -52,7 +52,7 @@ export default function Sidebar({ currentView, setView }) {
           <div className="w-11 h-6 bg-gray-200 rounded-full peer peer-checked:after:translate-x-full after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-[#3b82f6]"></div>
         </label>
         <img 
-          src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100" 
+          src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100" 
           alt="User Profile" 
           className="w-10 h-10 rounded-full object-cover border border-gray-300 shadow-sm"
         />

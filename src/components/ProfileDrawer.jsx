@@ -14,7 +14,7 @@ export default function ProfileDrawer() {
       <div className="flex flex-col items-center mb-6">
         <div className="relative w-24 h-24 rounded-full overflow-hidden group shadow-md border-2 border-slate-50">
           <img
-            src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=300"
+            src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100"
             alt="Avatar"
             className="w-full h-full object-cover"
           />

@@ -11,7 +11,7 @@ export default function ChatLanding({ onOpenNewChat }) {
           <i className="fa-solid fa-comments text-4xl text-slate-700 z-10"></i>
         </div>
         {/* Clickable redirect action link bound to state */}
-        <p className="text-xs font-semibold text-gray-400 tracking-wide">
+        <p className="text-xs font-semibold text-black tracking-wide">
           Select a conversation or start a 
           <button 
             onClick={onOpenNewChat}
