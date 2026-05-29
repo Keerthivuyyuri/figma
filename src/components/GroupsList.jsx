@@ -158,14 +158,15 @@ export default function GroupsList({
       {/* Groups List */}
       <div className="flex-grow overflow-y-auto px-3">
         {/* Pinned */}
-        <div className="px-2 pb-2 text-[10px] font-bold text-gray-400 uppercase tracking-wider">
+        <div className="px-2 pb-1 text-[10px] font-bold text-gray-400 uppercase tracking-wider">
           Pinned
         </div>
 
         {pinnedGroups.map(renderGroupCard)}
 
         {/* All Chats */}
-        <div className="px-2 pt-4 pb-2 text-[10px] font-bold text-gray-400 uppercase tracking-wider">
+        <div className="px-2 pt-4 pb-1 text-[10px] font-bold text-gray-400 uppercase tracking-wider">
+                  All Chats
           All Chats
         </div>
 
